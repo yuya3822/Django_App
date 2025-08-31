@@ -1,2 +1,2 @@
 # Django_App
-Djangono
+Djangoのテスト用リポジトリ
